@@ -30,7 +30,7 @@ order: 6
 ``` js
 data: {
   isActive: true,
-  hasError: false
+  hasError: false,
 }
 ```
 
